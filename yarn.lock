@@ -4762,6 +4762,11 @@ react-is@^16.6.3, react-is@^16.8.1, react-is@^16.8.4:
   resolved "http://registry.npm.taobao.org/react-is/download/react-is-16.8.4.tgz#90f336a68c3a29a096a3d648ab80e87ec61482a2"
   integrity sha1-kPM2pow6KaCWo9ZIq4DofsYUgqI=
 
+react-native-image-picker@^0.28.0:
+  version "0.28.0"
+  resolved "http://registry.npm.taobao.org/react-native-image-picker/download/react-native-image-picker-0.28.0.tgz#e3f26df170ea932e9c0404624fbced2f59a300e3"
+  integrity sha1-4/Jt8XDqky6cBARiT7ztL1mjAOM=
+
 react-native@0.58.6:
   version "0.58.6"
   resolved "http://registry.npm.taobao.org/react-native/download/react-native-0.58.6.tgz#a6d273cd2f51b0e3b141dad5f19622e0000497b3"
