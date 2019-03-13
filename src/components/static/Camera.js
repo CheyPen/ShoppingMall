@@ -122,7 +122,7 @@ export default class App extends Component {
 
                 <TouchableOpacity onPress={this.selectVideoTapped.bind(this)}>
                     <View style={[styles.avatar, styles.avatarContainer]}>
-                        <Text>选择视频 </Text>
+                        <Text> 选择视频 </Text>
                     </View>
                 </TouchableOpacity>
 
